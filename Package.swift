@@ -10,8 +10,8 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "Passbase",
-                      url: "https://button.passbase.com/__ios/Passbase_2.6.0.zip",
-                      checksum: "a3e9d7090102f7884da02bdd797fce1b9827a0564cf44e97ffbf2587c77877ef"),
+                      url: "https://button.passbase.com/__ios/Passbase_2.7.0.zip",
+                      checksum: "cffef8c47c7c67c8e60d73f7eb919f249e06251facdfe259695ebd33efb93bbb"),
         .binaryTarget(name: "Microblink",
                       url: "https://button.passbase.com/__ios/Microblink_5.11.0.zip",
                       checksum: "4583840c2d3cf926830943979c8efc77386265547c0a352d20086fffc2e9ca93"),
