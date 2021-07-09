@@ -6,7 +6,7 @@ let package = Package(
     name: "Passbase",
     products: [
         .library(name: "Passbase",
-                 targets: ["Passbase", "Microblink", "ZoomAuthentication"]),
+                 targets: ["Passbase", "Microblink"]),
     ],
     targets: [
         .binaryTarget(name: "Passbase",
